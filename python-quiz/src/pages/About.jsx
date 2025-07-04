@@ -30,7 +30,7 @@ export default function About() {
             </div>
             <div style={{display: 'flex', alignItems: 'center'}}>
               <i className="fa-brands fa-github" style={{color:'#18181b', marginRight:8}}></i>
-              <b>GitHub:</b> <a href="https://github.com/" target="_blank" rel="noopener noreferrer">github.com/your-repo</a>
+              <b>GitHub:</b> <a href="https://github.com/Sitthidet-SR" target="_blank" rel="noopener noreferrer">github.com/your-repo</a>
             </div>
           </div>
         </div>
